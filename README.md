@@ -9,7 +9,7 @@ Some projects I work on:
 
 ---
 
-### Life on earth is in crisis. Please Donate!
+### Life on earth is in crisis. Please support a charity! No one is too small to make a difference.
 
 We live in a war-torn world, where millions of people have their lives destroyed by conflict. On top of that our climate is changing faster than scientists predicted and the stakes are high. If you enjoy the work I do and consider donating money for my efforts, then please instead (or also) consider donating that money to a charity like:
 
