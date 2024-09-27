@@ -1,6 +1,7 @@
 Some projects I work on:
 
 - the **mercury live coding language**: [mercury in the browser](https://mercury-playground.pages.dev), [mercury for max8](https://github.com/tmhglnd/mercury)
+- the **./drum.code** project: [creating hybrid drums with live coding and open source tools](https://github.com/tmhglnd/drumcode)
 - the **total serialism** library for nodejs: [an algorithmic composition library](https://github.com/tmhglnd/total-serialism)
 - the **av toolbox** for jitter in max8: [download in the package manager or on github](https://github.com/tmhglnd/av-toolbox)
 - many more open-source projects for maxmspjitter and javascript: [see my repositories](https://github.com/tmhglnd?tab=repositories)
